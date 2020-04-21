@@ -1,0 +1,23 @@
+.navbar-left{
+    margin-right: 18px;
+}
+
+.name{
+    font-size: 1.3em;
+}
+
+.instagram-media{
+    margin:15px auto !important;
+}
+
+.video-player{
+    width: 100%;
+    padding: 0px 10vw;
+}
+
+.youtube-embed{
+    width: 80vw;
+    height: 45vw;
+    margin: 0 auto;
+    float: center;
+}
