@@ -10,7 +10,7 @@ Then click on the pencil icon (top right) to edit the file.
 
 Make whatever changes u need, comments are found as <!--
 
-![demo]https://raw.githubusercontent.com/thepoppycat/sc-campaign/master/assets/img/tutorial/tut3.png?raw=true)
+![demo](https://raw.githubusercontent.com/thepoppycat/sc-campaign/master/assets/img/tutorial/tut3.png?raw=true)
 
 Save the changes with the big green button below "Commit changes"
 
