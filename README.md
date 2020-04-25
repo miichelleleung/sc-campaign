@@ -8,7 +8,7 @@ Then click on the pencil icon (top right) to edit the file.
 
 ![demo](https://raw.githubusercontent.com/thepoppycat/sc-campaign/master/assets/img/tutorial/tut2.png?raw=true)
 
-Make whatever changes u need, comments are found as <!-- -->
+Make whatever changes u need, comments are found as <(no space here)!--
 
 ![demo]https://raw.githubusercontent.com/thepoppycat/sc-campaign/master/assets/img/tutorial/tut3.png?raw=true)
 
